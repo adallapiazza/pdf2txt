@@ -1,2 +1,2 @@
 # pdf2txt
-Convert Multiple page pdf to a text file
+Python code used to convert a multi-page pdf to a text file
